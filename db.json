@@ -1,0 +1,43 @@
+{
+  "teams": [
+    {
+      "id": "white",
+      "name": "Oracle",
+      "score": 0,
+      "solos": [
+        {
+          "id": "witch",
+          "name": "Scarlet Witch",
+          "score": 0
+        },
+        {
+          "id": "mantis",
+          "name": "Mantis",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "blue",
+      "name": "Erudite",
+      "score": 0,
+      "solos": [
+        {
+          "id": "beast",
+          "name": "Beast",
+          "score": 0
+        },
+        {
+          "id": "tchalla",
+          "name": "T'challa",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 0
+    }
+  ]
+}

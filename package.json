@@ -1,0 +1,26 @@
+{
+  "name": "telegram-scorebot",
+  "version": "0.1.0",
+  "description": "A telegram bot to keep track of score",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "telegraf": "^3.21.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/nexolute/telegram-scorebot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "telegram"
+  ]
+}
